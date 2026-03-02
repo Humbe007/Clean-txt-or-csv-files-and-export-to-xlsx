@@ -13,16 +13,15 @@ A simple Python tool to clean and standardize CSV or TXT files.
 - pandas 2.3.3
 
 ## Usage
+
 1. Clone or download this repository.
 2. Place your CSV or TXT file in the `input` folder.
 3. Run the script:
-
-```console
+   
 python main.py
 
-before:
-<img width="1920" height="1080" alt="Captura de pantalla (9)" src="https://github.com/user-attachments/assets/b8996b4d-8c89-4353-949c-ac833386e7cd" />
+Before:
+<img width="1920" height="1080" alt="Captura de pantalla (9)" src="https://github.com/user-attachments/assets/7b35cc3e-42e6-4563-9ccd-660a83b879c0" />
 
-after:
-<img width="1920" height="1080" alt="Captura de pantalla (10)" src="https://github.com/user-attachments/assets/15f8f336-e240-4849-b32c-cf079c196b07" />
-
+After:
+<img width="1920" height="1080" alt="Captura de pantalla (10)" src="https://github.com/user-attachments/assets/a0c952f3-26d7-4c6a-be77-f9965a1bdd16" />
