@@ -17,8 +17,9 @@ A simple Python tool to clean and standardize CSV or TXT files.
 1. Clone or download this repository.
 2. Place your CSV or TXT file in the `input` folder.
 3. Run the script:
-   
+```console
 python main.py
+```
 
 Before:
 <img width="1920" height="1080" alt="Captura de pantalla (9)" src="https://github.com/user-attachments/assets/7b35cc3e-42e6-4563-9ccd-660a83b879c0" />
