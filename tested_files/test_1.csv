@@ -1,0 +1,11 @@
+Cliente,Edad,     Ciudad      .,numero de compras,Email
+Ana,25,CDMX,3,ana@example.com
+Juan,,     Monterrey  ,5,juan@example.com
+Luis,30,,2,luis@example.com
+Ana,25,CDMX ,3,ana@example.com
+María,28,    Guadalajara    ,,
+Pedro,40,Puebla,10,pedro@example.com
+Laura,35,CDMX,7,laura@example.com
+Carlos,,Monterrey,4,
+Sofía,27,Guadalajara,3,sofia@example.com
+Diego,32,CDMX ,,
